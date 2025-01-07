@@ -168,7 +168,7 @@
                 "placeholder": "",
                 "show": true,
                 "name": "api_endpoint",
-                "value": "https://d4fc0ae1-b3c1-46a5-a8e1-8925731610f3-us-east-2.apps.astra.datastax.com",
+                "value": "https://d4fc0ae1-b3c1-46a5-a8e1--us-east-2.apps.astra.datastax.com",
                 "display_name": "API Endpoint",
                 "advanced": false,
                 "dynamic": false,
@@ -1007,7 +1007,7 @@
                 "placeholder": "",
                 "show": true,
                 "name": "api_key",
-                "value": "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",
+                "value": "sk-proj-4UhgZC8X0I5aUyZweV-VQz-7VD9oig2V5W",
                 "display_name": "OpenAI API Key",
                 "advanced": false,
                 "input_types": [
@@ -1934,5 +1934,5 @@
   "icon_bg_color": null,
   "webhook": false,
   "user_id": "0d5574b6-5403-4e07-8c23-62d3ee2da168",
-  "description": "MODEL IS WORKING BUT PARTIALLY"
+  "description": "MODEL IS WORKING "
 }
