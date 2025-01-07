@@ -1,4 +1,4 @@
-# InsightFlow
+# InsightCraft
 
 ## Social media performance analytics using AI 
 
