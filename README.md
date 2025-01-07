@@ -11,7 +11,7 @@ This repository demonstrates a basic analytics module for analyzing social media
 - Insight generation via GPT integration in Langflow
   
 ## Youtube Link
-Below is the youtube link with our detailed project explaination
+Below is the youtube link with our detailed project explaination <br>
 https://youtu.be/YaHhHPXdKUE
 
 ## Project Files  
