@@ -9,6 +9,9 @@ This repository demonstrates a basic analytics module for analyzing social media
 - Database operations using DataStax Astra DB.  
 - Workflow creation and analysis using Langflow.  
 - Insight generation via GPT integration in Langflow
+  
+## Youtube Link
+https://youtu.be/YaHhHPXdKUE
 
 ## Project Files  
 
