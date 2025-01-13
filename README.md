@@ -14,6 +14,9 @@ This repository demonstrates a basic analytics module for analyzing social media
 Below is the youtube link with our detailed project explaination <br>
 https://youtu.be/YaHhHPXdKUE
 
+##Findcoder.io Link of the project
+https://www.findcoder.io/projects/insightcraft/677d7f5b8015401a98868225
+
 ## Project Files  
 
 1. **`mock_engagement_data.csv`**  
